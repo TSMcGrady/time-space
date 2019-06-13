@@ -1,0 +1,1604 @@
+/*********“≥√Ê÷ÿ÷√*********/
+  body{
+	margin:0;
+	background:#f4f4f4;
+
+  }
+  h1,h2,h3,h4,h5,h6,p,ul,ol,dl,dd,li,pre{
+	margin:0;
+	padding:0;
+	list-style:none;
+  }
+  a{
+	text-decoration:none;
+  }
+  /**********header***************/
+	header{
+		width:100%;
+		height:70px;
+	}
+	header div.mid{
+		width:1200px;
+		margin:0 auto;
+		height:70px;
+		position:relative;
+	}
+	div.mid div.left-pic{
+		margin-top:15px;
+		float:left;
+		margin-left:30px;
+	}
+	div.mid div.left-pic a{
+		background:url(../images/a1.jpg) no-repeat;
+		display:block;
+		width:328px;
+		height:38px;
+	}
+	.right-work{
+		width:500px;
+		height:70px;
+		float:right;
+	}
+	.right-work a{
+		display:block;
+		float:left;
+		color:#333;
+		margin-left:15px;
+		margin-top:20px;
+	}
+	.right-work .mail i{
+		display:block;
+		background:url(../images/new.png);
+		width:28px;
+		height:17px;
+		float:right;
+	}
+	.right-work a span{
+		line-height:60px;
+		
+	}
+	.right-work div.mianfei{
+		margin-left:px;
+	}
+	.right-work div.mianfei a{
+		color:#fff;
+		width:118px;
+		height:34px;
+		border-radius:30px;
+		text-align:center;
+		line-height:33px;
+	}
+	.right-work div.mianfei a:link{
+		background:#0076fe;
+	}
+	.right-work div.denglu a{
+		width:80px;
+		height:34px;
+		text-align:center;
+		line-height:33px;
+		border-radius:30px;
+		border:1px solid #CBCBCB; 
+	}
+
+	
+	/**********banner********/
+	#banner_sit{
+		width:100%;
+		height:510px;
+		background:#13A8FE;
+	}
+	#banner_sit div.mid{
+		width:1200px;
+		margin:0 auto;
+	}
+	#banner_sit div.mid div.left_service{
+		width:270px;
+		height:600px;
+		background:#fff;
+		border-radius:5px;
+		position:relative;
+		top:50px;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+		float:left;
+	}
+	#banner_sit div.mid div.left_service p{
+		color: #3a405b;
+		font-size: 14px;
+		height: 49px;
+		line-height: 49px;
+		border-bottom: 1px solid #eceff6;
+		padding-left:20px;
+	}
+	#banner_sit div.mid div.left_service ul li a{
+		display:block;
+		height:67px;
+		color:#464646;
+	}
+	#banner_sit div.mid div.left_service ul li a b{
+		display:block;
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px 0px;
+		float:left;
+		margin-top:18px;
+		margin-left:30px;
+		margin-right:10px;
+	}
+	#banner_sit div.mid div.left_service ul li:nth-child(2) a b{
+		display:block;
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -70px;
+		float:left;
+		margin-top:18px;
+		margin-left:30px;
+		margin-right:10px;
+	}
+	#banner_sit div.mid div.left_service ul li:nth-child(3) a b{
+		display:block;
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -130px;
+		float:left;
+		margin-top:18px;
+		margin-left:30px;
+		margin-right:10px;
+	}
+	#banner_sit div.mid div.left_service ul li:nth-child(4) a b{
+		display:block;
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -190px;
+		float:left;
+		margin-top:18px;
+		margin-left:30px;
+		margin-right:10px;
+	}
+	#banner_sit div.mid div.left_service ul li:nth-child(5) a b{
+		display:block;
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -250px;
+		float:left;
+		margin-top:18px;
+		margin-left:30px;
+		margin-right:10px;
+	}
+	#banner_sit div.mid div.left_service ul li:nth-child(6) a b{
+		display:block;
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -310px;
+		float:left;
+		margin-top:18px;
+		margin-left:30px;
+		margin-right:10px;
+	}
+	#banner_sit div.mid div.left_service ul li:nth-child(7) a b{
+		display:block;
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -370px;
+		float:left;
+		margin-top:18px;
+		margin-left:30px;
+		margin-right:10px;
+	}
+	#banner_sit div.mid div.left_service ul li a div{
+		float:left;
+		font-size:16px;
+		font-weight:bold;
+		line-height:67px;
+		margin-left:10px;
+	}
+
+	#banner_sit div.mid div.right-more{
+		width:900px;
+		height:600px;
+		float:right;
+		position:relative;
+		top:50px;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+	#banner_sit div.mid div.right-more p{
+		background:url(../images/carouselBan5.jpg) no-repeat;
+		width:900px;
+		height:480px;
+	}
+	#banner_sit div.mid div.right-more ul{
+		float:left;
+		width:900px;
+		height:120px;
+		background:#fff;
+	}
+	#banner_sit div.mid div.right-more ul li{
+		float:left;
+		margin-left:90px;
+		margin-top:35px;
+	}
+	#banner_sit div.mid div.right-more ul li .number1{
+		font-size:34px;
+		vertical-align:middle;
+	}
+	#banner_sit div.mid div.right-more ul li .number2{
+		font-size:34px;
+		vertical-align:middle;
+	}
+	#banner_sit div.mid div.right-more ul li .number3{
+		font-size:34px;
+		vertical-align:middle;
+	}
+	#banner_sit div.mid div.right-more ul li .zimu1{
+		color:#989baf;
+		vertical-align:middle;
+	}
+	#banner_sit div.mid div.right-more ul li .zimu2{
+		color:#989baf;
+		vertical-align:middle;
+	}
+	#banner_sit div.mid div.right-more ul li .zimu3{
+		color:#989baf;
+		vertical-align:middle;
+	}
+
+	/**********second********/
+	.second{
+		width:100%;
+		height:676px;
+		background:#f4f4f4;
+		margin-top:100px;
+	}
+	.second h1{
+		text-align:center;
+		color:#f84;
+		display:block;
+		font-size:26px;
+	}
+	.second p{
+		text-align:center;
+		margin-top:10px;
+		color:#a7a9b7;
+		font-size:16px;
+		line-height:30px;
+	}
+	.second div.second-mid{
+		width:1200px;
+		height:100%;
+		margin:0 auto;
+		font-family:"Œ¢»Ì—≈∫⁄"
+	}
+
+
+	.second div.second-mid div.mid-1{
+		width:380px;
+		height:510px;
+		float:left;
+		vertical-align:middle;
+		background:#fff;
+		border-radius:5px;
+		margin-top:20px;
+		overflow:hidden;
+	}
+	.second div.second-mid div.mid-1:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+	.second div.second-mid div.mid-1 a{
+		width:100%;
+		height:510px;
+		display:block;
+		float:left;
+	}
+	.second div.second-mid div.mid-1 div.bg1{
+		width:100%;
+		height:190px;
+		background:url(../images/fkw-product-jz.jpg);
+	}
+	.second div.second-mid div.mid-1 .bottom1{
+		height:170px;
+		border-bottom:1px solid #eceff6;
+		overflow:hidden;
+	}
+	.second div.second-mid div.mid-1 .fanke1{
+		width:160px;
+		height:60px;
+		margin-top:30px;
+	}
+	.second div.second-mid div.mid-1 .fanke1 h2{
+		color:black;
+		font-size:18px;
+		margin-left:40px;
+		line-height:16px;
+	}	
+	.second div.second-mid div.mid-1 .web1 span{
+		color:#989baf;
+		font-size:14px;
+		line-height:16px;
+		margin-left:40px;
+	}
+	.second div.second-mid div.mid1-last{
+		height:89px;
+		box-sizing:border-box;
+		padding-top:25px;
+	}
+	.second div.second-mid div.mid1-last i{
+		background:url(../images/fkw_logo.png) no-repeat 0px 0px;
+		width:30px;
+		height:30px;
+		display:block;
+		float:left;
+		margin-left:30px;
+		margin-top:5px;
+	}
+	.second div.second-mid div.mid1-last div{
+		color:#777c92;
+		float:left;
+		padding-left:20px;
+		font-size:14px;
+		margin-top:10px;
+	}
+	.second div.second-mid div.mid-1 div.tiyan1{
+		width:132px;
+		height:37px;
+		background:orange;
+		margin:0 auto;
+		margin-bottom:30px;
+		border-radius:30px;
+	}
+	.second div.second-mid div.mid-1 div.tiyan1 h1{
+		font-size:18px;
+		color:#fff;
+		line-height:35px;
+	}
+
+	.second div.second-mid div.mid-2{
+		width:380px;
+		height:510px;
+		vertical-align:middle;
+		background:#fff;
+		float:left;
+		margin-left:20px;
+		margin-top:20px;
+		overflow:hidden;
+		border-radius:5px;
+	}
+	.second div.second-mid div.mid-2:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+	.second div.second-mid div.mid-2 a{
+		width:100%;
+		height:510px;
+		display:block;
+		float:left;
+	}
+	.second div.second-mid div.mid-2 div.bg2{
+		width:100%;
+		height:190px;
+		background:url(../images/fkw-product-flyer.jpg);
+	}
+	.second div.second-mid div.mid-2 .bottom2{
+		height:170px;
+		border-bottom:1px solid #eceff6;
+		overflow:hidden;
+	}
+	.second div.second-mid div.mid-2 .fanke2{
+		width:160px;
+		height:60px;
+		margin-top:30px;
+	}
+	.second div.second-mid div.mid-2 .fanke2 h2{
+		color:black;
+		font-size:18px;
+		margin-left:40px;
+		line-height:16px;
+	}	
+	.second div.second-mid div.mid-2 .web2 span{
+		color:#989baf;
+		font-size:14px;
+		line-height:16px;
+		margin-left:40px;
+	}
+	.second div.second-mid div.mid2-last{
+		height:89px;
+		box-sizing:border-box;
+		padding-top:25px;
+	}
+	.second div.second-mid div.mid2-last i{
+		background:url(../images/fkw_logo.png) no-repeat 0px -70px;
+		width:30px;
+		height:30px;
+		display:block;
+		float:left;
+		margin-left:30px;
+		margin-top:5px;
+	}
+	.second div.second-mid div.mid2-last div{
+		color:#777c92;
+		float:left;
+		padding-left:20px;
+		font-size:14px;
+		margin-top:10px;
+	}
+	.second div.second-mid div.mid-2 div.tiyan2{
+		width:132px;
+		height:37px;
+		background:orange;
+		margin:0 auto;
+		margin-bottom:30px;
+		border-radius:30px;
+	}
+	.second div.second-mid div.mid-2 div.tiyan2 h1{
+		font-size:18px;
+		color:#fff;
+		line-height:35px;
+	}
+
+	.second div.second-mid div.mid-3{
+		width:380px;
+		height:510px;
+		float:left;
+		vertical-align:middle;
+		background:#fff;
+		margin-left:20px;
+		margin-top:20px;
+		overflow:hidden;
+		border-radius:5px;
+	}
+	.second div.second-mid div.mid-3:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+	.second div.second-mid div.mid-3 a{
+		width:100%;
+		height:510px;
+		display:block;
+		float:left;
+	}
+	.second div.second-mid div.mid-3 div.bg3{
+		width:100%;
+		height:190px;
+		background:url(../images/fkw-product-wxasr.jpg);
+	}
+	.second div.second-mid div.mid-3 .bottom3{
+		height:170px;
+		border-bottom:1px solid #eceff6;
+		overflow:hidden;
+	}
+	.second div.second-mid div.mid-3 .fanke3{
+		width:160px;
+		height:60px;
+		margin-top:30px;
+	}
+	.second div.second-mid div.mid-3 .fanke3 h2{
+		color:black;
+		font-size:18px;
+		margin-left:40px;
+		line-height:16px;
+	}	
+	.second div.second-mid div.mid-3 .web3 span{
+		color:#989baf;
+		font-size:14px;
+		line-height:16px;
+		margin-left:40px;
+	}
+	.second div.second-mid div.mid3-last{
+		height:89px;
+		box-sizing:border-box;
+		padding-top:25px;
+	}
+	.second div.second-mid div.mid3-last i{
+		background:url(../images/fkw_logo.png) no-repeat 0px -130px;
+		width:30px;
+		height:30px;
+		display:block;
+		float:left;
+		margin-left:30px;
+		margin-top:5px;
+	}
+	.second div.second-mid div.mid3-last div{
+		color:#777c92;
+		float:left;
+		padding-left:20px;
+		font-size:14px;
+		margin-top:10px;
+	}
+	.second div.second-mid div.mid-3 div.tiyan3{
+		width:132px;
+		height:37px;
+		background:orange;
+		margin:0 auto;
+		margin-bottom:30px;
+		border-radius:30px;
+	}
+	.second div.second-mid div.mid-3 div.tiyan3 h1{
+		font-size:18px;
+		color:#fff;
+		line-height:35px;
+	}
+
+	/**********third********/
+	.third{
+		width:1200px;
+		height:1041px;
+		margin:0 auto;
+	}
+	.third div.chuanbo{
+		margin:0 auto;
+		width:100%;
+		margin-top:20px;
+	}
+	.third div.chuanbo h2{
+		text-align:center;
+		color:#1ebfa3;
+		font-size:26px;
+		font-weight:bold;
+		display:block;
+	}
+	.third div.chuanbo p{
+		text-align:center;
+		color:#a7a9b7;
+		font-size:16px;
+		margin-top:15px;
+	}
+	.third a{
+		width:100%;
+		height:280px;
+		display:block;
+		float:left;
+		background:#fff;
+		margin-top:40px;
+	}
+	.third a:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+	.third a div.bg1{
+		width:380px;
+		height:242px;
+		background:url(../images/fkw-product-hd.jpg);
+		float:left;
+		margin-top:19px;
+		margin-left:19px;
+	}
+	.third a div.hudong1{
+		width:620px;
+		height:280px;
+		float:right;
+	}
+	.third a div.hudong1 div.content1{
+		width:620px;
+		height:195px;
+		border-bottom:1px solid #eceff6;
+		overflow:hidden;
+	}
+	a div.hudong1 div.content1 div.fkhd{
+		font-size:18px;
+		color:#3a405b;
+		line-height:20px;
+		text-align:center;
+		font-weight:bold;
+		margin:43px auto 30px auto;
+	}
+	a div.hudong1 div.content1 div.kanjia{
+		width:526px;
+		margin-left:43px;
+		text-align:center;
+		font-size:14px;
+		color:#989baf;
+		line-height:30px;
+	}
+	a div.hudong1  div.pic1{
+		height:86px;
+		width:100%;
+	}
+	a div.hudong1  div.pic1 i{
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0 -130px;
+		display:block;	
+		float:left;
+		margin-top:25px;
+		margin-left:25px;
+	}
+	a div.hudong1  div.pic1 span{
+		float:left;
+		color:#777c92;
+		font-size:14px;
+		margin-top:30px;
+		margin-left:25px;
+	}
+	a div.hudong1  div.pic1 div.tiyan1{
+		float:right;
+		width:132px;
+		height:37px;
+		margin-top:20px;
+		background:lightgreen;
+		margin-right:30px;
+		border-radius:30px;
+	}
+	a div.hudong1  div.pic1 div.tiyan1 p{
+		font-size:16px;
+		font-weight:bold;
+		color:#fff;
+		text-align:center;
+		line-height:35px;
+	}
+
+
+	.third a.a2{
+		width:585px;
+		height:500px;
+		margin-top:30px;
+	}
+	.third a.a2 div.bg2{
+		height:210px;
+		width:545px;
+		background:url(../images/fkw-product-flyer.jpg);
+		margin-top:20px;
+		margin-left:20px;
+		overflow:hidden;
+	}
+	.third a.a2 div.chuandan{
+		width:511px;
+		height:180px;
+		margin:0 auto;
+		border-bottom:1px solid #989baf;
+	}
+	.third a.a2 div.chuandan div.fkw{
+		font-size:18px;
+		color:#3a405b;
+		font-weight:bold;
+		line-height:60px;
+	}
+	.third a.a2 div.chuandan div.new{
+		font-size:14px;
+		color:#989baf;
+		line-height:29px;
+	}
+	.third a.a2 div.h5{
+		height:89px;
+		box-sizing:border-box;
+		width:511px;
+		margin:0 auto;
+	}
+	.third a.a2 div.h5 u{
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -190px;
+		display:block;
+		float:left;
+		margin-top:29px;
+	}
+	.third a.a2 div.h5 span{
+		color:#777c92;
+		font-size:14px;
+		float:left;
+		margin-top:35px;
+		padding-left:10px;
+	}
+	.third a.a2 div.h5 div.tiyan2{
+		float:right;
+		width:132px;
+		height:37px;
+		background:lightgreen;
+		margin-top:30px;
+		border-radius:30px;
+	}
+	.third a.a2 div.h5 div.tiyan2 p{
+		color:#fff;
+		font-size:16px;
+		font-weight:bold;
+		line-height:35px;
+		text-align:center;
+	}
+
+
+	.third a.a3{
+		width:585px;
+		height:500px;
+		margin-top:30px;
+		float:right;
+	}
+	.third a.a3 div.bg3{
+		height:210px;
+		width:545px;
+		background:url(../images/fkw-product-wxasr.jpg);
+		margin-top:20px;
+		margin-left:20px;
+		overflow:hidden;
+	}
+	.third a.a3 div.chuandan3{
+		width:511px;
+		height:180px;
+		margin:0 auto;
+		border-bottom:1px solid #989baf;
+	}
+	.third a.a3 div.chuandan3 div.fkw3{
+		font-size:18px;
+		color:#3a405b;
+		font-weight:bold;
+		line-height:60px;
+	}
+	.third a.a3 div.chuandan3 div.new3{
+		font-size:14px;
+		color:#989baf;
+		line-height:29px;
+	}
+	.third a.a3 div.h5{
+		height:89px;
+		box-sizing:border-box;
+		width:511px;
+		margin:0 auto;
+	}
+	.third a.a3 div.h5 u{
+		width:30px;
+		height:30px;
+		background:url(../images/fkw_logo.png) no-repeat 0px -250px;
+		display:block;
+		float:left;
+		margin-top:29px;
+	}
+	.third a.a3 div.h5 span{
+		color:#777c92;
+		font-size:14px;
+		float:left;
+		margin-top:35px;
+		padding-left:10px;
+	}
+	.third a.a3 div.h5 div.tiyan3{
+		float:right;
+		width:132px;
+		height:37px;
+		background:lightgreen;
+		margin-top:30px;
+		border-radius:30px;
+	}
+	.third a.a3 div.h5 div.tiyan3 p{
+		color:#fff;
+		font-size:16px;
+		font-weight:bold;
+		line-height:35px;
+		text-align:center;
+	}
+	
+	/**********list-4********/
+	.list4{
+		width:100%;
+		height:650px;
+	}
+	.list4 div.tuiguang{
+		width:1200px;
+		height:650px;
+		margin:0 auto;
+		
+	}
+	div.tuiguang h3{
+		text-align:center;
+		font-size:26px;
+		color:#3e94ff;
+	}
+	div.tuiguang p{
+		text-align:center;
+		font-size:16px;
+		color:#a7a9b7;
+		line-height:40px;
+	}
+	div.tuiguang a.list-1{
+		width:285px;
+		height:420px;
+		background:#fff;
+		float:left;
+		margin-top:40px;
+		display:block;
+	}
+	div.tuiguang a.list-1 h2{
+		text-align:center;
+		color:#3a405b;
+		font-size:20px;
+		margin: 71px auto 36px auto;
+	}
+	div.tuiguang a.list-1 span{
+		text-align:center;
+		color:#777c92;
+		font-size:14px;
+		display:block;
+		line-height:29px;
+	}
+	div.tuiguang a.list-1 u{
+		display:block;
+		width:100px;
+		height:95px;
+		background:url(../images/fkw-icon.png) no-repeat 0px -2px;
+		margin:0 auto;
+		margin-top:80px;
+	}
+	div.tuiguang a.list-1:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+
+	div.tuiguang a.list-2{
+		width:285px;
+		height:420px;
+		background:#fff;
+		float:left;
+		margin-top:40px;
+		display:block;
+		margin-left:20px;
+	}
+	div.tuiguang a.list-2 h2{
+		text-align:center;
+		color:#3a405b;
+		font-size:20px;
+		margin: 71px auto 36px auto;
+	}
+	div.tuiguang a.list-2 span{
+		text-align:center;
+		color:#777c92;
+		font-size:14px;
+		display:block;
+		line-height:29px;
+	}
+	div.tuiguang a.list-2 u{
+		display:block;
+		width:100px;
+		height:95px;
+		background:url(../images/fkw-icon.png) no-repeat 0px -152px;
+		margin:0 auto;
+		margin-top:80px;
+	}
+	div.tuiguang a.list-2:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+
+	div.tuiguang a.list-3{
+		width:285px;
+		height:420px;
+		background:#fff;
+		float:left;
+		margin-top:40px;
+		display:block;
+		margin-left:20px;
+	}
+	div.tuiguang a.list-3 h2{
+		text-align:center;
+		color:#3a405b;
+		font-size:20px;
+		margin: 71px auto 36px auto;
+	}
+	div.tuiguang a.list-3 span{
+		text-align:center;
+		color:#777c92;
+		font-size:14px;
+		display:block;
+		line-height:29px;
+	}
+	div.tuiguang a.list-3 u{
+		display:block;
+		width:100px;
+		height:95px;
+		background:url(../images/fkw-icon.png) no-repeat 0px -302px;
+		margin:0 auto;
+		margin-top:80px;
+	}
+	div.tuiguang a.list-3:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+
+	div.tuiguang a.list-4{
+		width:285px;
+		height:420px;
+		background:#fff;
+		float:left;
+		margin-top:40px;
+		display:block;
+		margin-left:20px;
+	}
+	div.tuiguang a.list-4 h2{
+		text-align:center;
+		color:#3a405b;
+		font-size:20px;
+		margin: 71px auto 36px auto;
+	}
+	div.tuiguang a.list-4 span{
+		text-align:center;
+		color:#777c92;
+		font-size:14px;
+		display:block;
+		line-height:29px;
+	}
+	div.tuiguang a.list-4 u{
+		display:block;
+		width:100px;
+		height:95px;
+		background:url(../images/fkw-icon.png) no-repeat 0px -452px;
+		margin:0 auto;
+		margin-top:80px;
+	}
+	div.tuiguang a.list-4:hover{
+		transform:translatey(-10px);
+		transition:transform 0.7s linear;
+		box-shadow:0px 5px 10px 0px rgba(0,0,0,0.1);
+	}
+		/**********list-5********/
+	div.list-5{
+		width:100%;
+		height:662px;
+		background:#fff;
+	}
+	div.list-5 div.center{
+		width:1200px;
+		height:600px;
+		margin:0 auto;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		-webkit-flex-wrap:wrap;
+		justify-content:space-around;
+		-webkit-justify-content:space-around;
+	}
+	div.center h1{
+		text-align:center;
+		font-size:30px;
+		color:#3a405b;
+		display:block;
+		width:1200px;
+		height:100px;
+		line-height:100px;
+	}
+
+
+
+	div.center div.bankuai-f{
+		width:500px;
+		height:500px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		align-items:center;
+		-webkit-align-items:center;
+	}
+	/***********bankuai-1***********/
+	div.center div.bankuai1-1{
+		width:440px;
+		height:100px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-1 div.left-1{
+		width:90px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:flex-end;
+		justify-content:-webkit-flex-end;
+	}
+	div.center div.bankuai1-1 div.left-1 h2{
+		font-size:30px;
+		color:#333333;
+		font-weight:normal;
+	}
+	div.center div.bankuai1-1 div.left-1 p{
+		font-size:14px;
+		color:#BFBFBF;
+	}
+	div.center div.bankuai1-1 div.right-1{
+		width:320px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-1 div.right-1 a{
+		width:100%;
+		height:40%;
+		color:#333;
+		font-size:12px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-1 div.right-1 a h2{
+		font-weight:normal;
+	}
+	div.center div.bankuai1-1 div.right-1 u{
+		display:block;
+		width:25px;
+		height:25px;
+		background:url(../images/hot.gif);
+	}
+	div.center div.bankuai1-1 div.right-1 a:hover{
+		color:lightblue;
+	}
+	div.center div.bankuai1-1 div.right-1 p{
+		font-size:12px;
+		color:#ADADAD;
+		width:100%;
+		height:40%;
+	}
+	
+	/***********bankuai-2***********/
+	div.center div.bankuai1-2{
+		width:440px;
+		height:100px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-2 div.left-2{
+		width:90px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:flex-end;
+		justify-content:-webkit-flex-end;
+	}
+	div.center div.bankuai1-2 div.left-2 h2{
+		font-size:30px;
+		color:#333333;
+		font-weight:normal;
+	}
+	div.center div.bankuai1-2 div.left-2 p{
+		font-size:14px;
+		color:#BFBFBF;
+	}
+	div.center div.bankuai1-2 div.right-2{
+		width:320px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-2 div.right-2 a{
+		width:100%;
+		height:40%;
+		color:#333;
+		font-size:12px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-2 div.right-2 a h2{
+		font-weight:normal;
+	}
+	div.center div.bankuai1-2 div.right-2 u{
+		display:block;
+		width:25px;
+		height:25px;
+		background:url(../images/hot.gif);
+	}
+	div.center div.bankuai1-2 div.right-2 a:hover{
+		color:lightblue;
+	}
+	div.center div.bankuai1-2 div.right-2 p{
+		font-size:12px;
+		color:#ADADAD;
+		width:100%;
+		height:40%;
+	}
+
+
+	/***********bankuai-3***********/
+	div.center div.bankuai1-3{
+		width:440px;
+		height:100px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-3 div.left-3{
+		width:90px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:flex-end;
+		justify-content:-webkit-flex-end;
+	}
+	div.center div.bankuai1-3 div.left-3 h2{
+		font-size:30px;
+		color:#333333;
+		font-weight:normal;
+	}
+	div.center div.bankuai1-3 div.left-3 p{
+		font-size:14px;
+		color:#BFBFBF;
+	}
+	div.center div.bankuai1-3 div.right-3{
+		width:320px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-3 div.right-3 a{
+		width:100%;
+		height:40%;
+		color:#333;
+		font-size:12px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-3 div.right-3 a h2{
+		font-weight:normal;
+	}
+	div.center div.bankuai1-3 div.right-3 u{
+		display:block;
+		width:25px;
+		height:25px;
+		background:url(../images/hot.gif);
+	}
+	div.center div.bankuai1-3 div.right-3 a:hover{
+		color:lightblue;
+	}
+	div.center div.bankuai1-3 div.right-3 p{
+		font-size:12px;
+		color:#ADADAD;
+		width:100%;
+		height:40%;
+	}
+
+
+div.center div.bankuai-r{
+		width:500px;
+		height:500px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		align-items:center;
+		-webkit-align-items:center;
+	}
+	/***********bankuai-4***********/
+	div.center div.bankuai1-4{
+		width:440px;
+		height:100px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-4 div.left-4{
+		width:90px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:flex-end;
+		justify-content:-webkit-flex-end;
+	}
+	div.center div.bankuai1-4 div.left-4 h2{
+		font-size:30px;
+		color:#333333;
+		font-weight:normal;
+	}
+	div.center div.bankuai1-4 div.left-4 p{
+		font-size:14px;
+		color:#BFBFBF;
+	}
+	div.center div.bankuai1-4 div.right-4{
+		width:320px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-4 div.right-4 a{
+		width:100%;
+		height:40%;
+		color:#333;
+		font-size:12px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-4 div.right-4 a h2{
+		font-weight:normal;
+	}
+	div.center div.bankuai1-4 div.right-4 u{
+		display:block;
+		width:25px;
+		height:25px;
+		background:url(../images/hot.gif);
+	}
+	div.center div.bankuai1-4 div.right-4 a:hover{
+		color:lightblue;
+	}
+	div.center div.bankuai1-4 div.right-4 p{
+		font-size:12px;
+		color:#ADADAD;
+		width:100%;
+		height:40%;
+	}
+	
+	/***********bankuai-5***********/
+	div.center div.bankuai1-5{
+		width:440px;
+		height:100px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-5 div.left-5{
+		width:90px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:flex-end;
+		justify-content:-webkit-flex-end;
+	}
+	div.center div.bankuai1-5 div.left-5 h2{
+		font-size:30px;
+		color:#333333;
+		font-weight:normal;
+	}
+	div.center div.bankuai1-5 div.left-5 p{
+		font-size:14px;
+		color:#BFBFBF;
+	}
+	div.center div.bankuai1-5 div.right-5{
+		width:320px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-5 div.right-5 a{
+		width:100%;
+		height:40%;
+		color:#333;
+		font-size:12px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-5 div.right-5 a h2{
+		font-weight:normal;
+	}
+	div.center div.bankuai1-5 div.right-5 u{
+		display:block;
+		width:25px;
+		height:25px;
+		background:url(../images/hot.gif);
+	}
+	div.center div.bankuai1-5 div.right-5 a:hover{
+		color:lightblue;
+	}
+	div.center div.bankuai1-5 div.right-5 p{
+		font-size:12px;
+		color:#ADADAD;
+		width:100%;
+		height:40%;
+	}
+
+
+	/***********bankuai-6***********/
+	div.center div.bankuai1-6{
+		width:440px;
+		height:100px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-6 div.left-6{
+		width:90px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:flex-end;
+		justify-content:-webkit-flex-end;
+	}
+	div.center div.bankuai1-6 div.left-6 h2{
+		font-size:30px;
+		color:#333333;
+		font-weight:normal;
+	}
+	div.center div.bankuai1-6 div.left-6 p{
+		font-size:14px;
+		color:#BFBFBF;
+	}
+	div.center div.bankuai1-6 div.right-6{
+		width:320px;
+		height:70px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		flex-wrap:-webkit-wrap;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-6 div.right-6 a{
+		width:100%;
+		height:40%;
+		color:#333;
+		font-size:12px;
+		display:flex;
+		display:-webkit-flex;
+		justify-content:space-between;
+		justify-content:-webkit-space-between;
+	}
+	div.center div.bankuai1-6 div.right-6 a h2{
+		font-weight:normal;
+	}
+	div.center div.bankuai1-6 div.right-6 u{
+		display:block;
+		width:25px;
+		height:25px;
+		background:url(../images/hot.gif);
+	}
+	div.center div.bankuai1-6 div.right-6 a:hover{
+		color:lightblue;
+	}
+	div.center div.bankuai1-6 div.right-6 p{
+		font-size:12px;
+		color:#ADADAD;
+		width:100%;
+		height:40%;
+	}
+
+
+
+
+	/**********list-6********/
+	.list-6{
+		width:100%;
+		height:440px;
+		background:#2C2C2C;
+		overflow:hidden;
+		border-bottom:1px solid #202020;
+	}
+	.list-6 div.last{
+		width:980px;
+		margin:0 auto;
+		height:400px;
+	}
+	.list-6 div.last div.last-1{
+		width:980px;
+		height:100px;
+		margin-top:24px;
+		
+	}
+	.list-6 div.last div.last-1 p{
+		color:#5d5d5d;
+		font-size:15px;
+	}
+	.list-6 div.last div.last-1 i{
+		width:980px;
+		height:50px;
+		display:block;
+		background:url(../images/fkw-parents.png);
+		margin-top:20px;
+	}
+	.list-6 div.last div.last-2{
+		width:100%;
+		height:240px;
+		display:flex;
+		display:-webkit-flex;
+	}
+
+/**************dl1**************/
+	.list-6 div.last dl.dl1{
+		width:145px;
+		height:200px;
+		margin-top:35px
+	}
+	.list-6 div.last dl.dl1 dt{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+	}
+	.list-6 div.last dl.dl1 dd{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+	}
+	.list-6 div.last dl.dl1 a{
+		color:#5d5d5d;
+	}
+/**************dl2**************/
+	.list-6 div.last dl.dl2{
+		width:145px;
+		height:200px;
+		margin-top:35px
+	}
+	.list-6 div.last dl.dl2 dt{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+	}
+	.list-6 div.last dl.dl2 dd{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+	}
+	.list-6 div.last dl.dl2 a{
+		color:#5d5d5d;
+	}
+	/**************dl3**************/
+	.list-6 div.last dl.dl3{
+		width:180px;
+		height:200px;
+		margin-top:35px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		-webkit-flex-wrap:wrap;
+		justify-content:space-between;
+		-webkit-justify-content:space-between;
+	}
+	.list-6 div.last dl.dl3 dt{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+		width:100%;
+	}
+	.list-6 div.last dl.dl3 dd{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+		width:45%;
+	}
+	.list-6 div.last dl.dl3 a{
+		color:#5d5d5d;
+	}
+	/**************dl4**************/
+	.list-6 div.last dl.dl4{
+		width:145px;
+		height:200px;
+		margin-top:35px;
+		margin-left:60px;
+	}
+	.list-6 div.last dl.dl4 dt{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+	}
+	.list-6 div.last dl.dl4 dd{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+	}
+	.list-6 div.last dl.dl4 a{
+		color:#5d5d5d;
+	}
+
+	/**************dl5**************/
+	.list-6 div.last dl.dl5{
+		width:240px;
+		height:150px;
+		margin-top:35px;
+		display:flex;
+		display:-webkit-flex;
+		flex-wrap:wrap;
+		-webkit-flex-wrap:wrap;
+		justify-content:space-between;
+		-webkit-justify-content:space-between;
+	}
+	.list-6 div.last dl.dl5 dt{
+		font-size:15px;
+		color:#5d5d5d;
+		margin-bottom:20px;
+		width:100%;
+	}
+	.list-6 div.last dl.dl5 dd{
+		width:76px;
+		height:46px;
+	}
+	.list-6 div.last dl.dl5 dd a{
+		width:76px;
+		height:46px;
+		display:block;
+		background:url(../images/icon001.png);
+	}
+	.list-6 div.last dl.dl5 dd:nth-child(3) a{
+		background:url(../images/icon002.png);
+	}
+	.list-6 div.last dl.dl5 dd:nth-child(4) a{
+		background:url(../images/icon003.png);
+	}
+	.list-6 div.last dl.dl5 dd:nth-child(5) a{
+		background:url(../images/icon004.png);
+	}
+	.list-6 div.last dl.dl5 dd:nth-child(6) a{
+		background:url(../images/icon005.png);
+	}
+	.list-6 div.last dl.dl5 dd:nth-child(7) a{
+		background:url(../images/icon006.png);
+	}
+
+	.list-6 div.last div.lianjie{
+		margin-top:20px;
+	}
+	.list-6 div.last div.lianjie a{
+		color:#5d5d5d;
+		font-size:15px;
+	}
+
+	.yue{
+		width:100%;
+		height:74px;
+		background:#2C2C2C;
+	}
+	.yue div.yue1{
+		width:1200px;
+		height:100%;
+		margin:0 auto;
+		display:flex;
+		display:-webkit-flex;
+		align-items:center;
+		-webkit-align-items:center;
+		justify-content:space-around;
+		-webkit-justify-content:space-around;
+	}
+	.yue a:nth-child(1){
+		color:#5d5d5d;
+		font-size:12px;
+		display:flex;
+		display:-webkit-flex;
+		align-items:center;
+		-webkit-align-items:center;
+	}
+	.yue a:nth-child(1) i{
+		display:block;
+		width:20px;
+		height:20px;
+		background:url(../images/beianIcon.png);
+	}
+	.yue div.yue1 p{
+		color:#5d5d5d;
+		font-size:12px;
+	}
+	.yue a:nth-child(3){
+		width:330px;
+		height:30px;
+		display:block;
+		background:url(../images/footer_icon.png);
+	}
